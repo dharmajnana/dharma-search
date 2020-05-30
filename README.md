@@ -1,2 +1,0 @@
-# dharma-search
-Test entry
